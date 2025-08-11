@@ -1,0 +1,19 @@
+{
+  "name": "takes mobile",
+  "symbol": "takes",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/takes.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/takes.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.mytakes.fun/",
+    "twitter": "https://x.com/takes_mobile",
+    "telegram": ""
+  }
+}
