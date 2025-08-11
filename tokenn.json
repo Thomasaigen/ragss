@@ -1,0 +1,14 @@
+{
+  "name": "Sugar.Money",
+  "symbol": "SUGAR",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/sugr.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/sugr.png", "type": "image/png" }
+    ]
+  }
+}
