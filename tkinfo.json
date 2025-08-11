@@ -1,0 +1,19 @@
+{
+  "name": "SOON",
+  "symbol": "SOON",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/soon.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/soon.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.twitch.tv/",
+    "twitter": "https://x.com/mcuban",
+    "telegram": ""
+  }
+}
