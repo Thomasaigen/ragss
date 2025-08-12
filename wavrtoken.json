@@ -1,0 +1,19 @@
+{
+  "name": "WAVR",
+  "symbol": "WAVR",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/wavr.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/wavr.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://wavr.fun/",
+    "twitter": "https://x.com/wavrdotfun",
+    "telegram": ""
+  }
+}
