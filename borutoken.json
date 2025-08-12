@@ -1,0 +1,19 @@
+{
+  "name": "Boru",
+  "symbol": "BORU",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/boru.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/boru.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://launchmynft.io/collections/9so6JYy6KFam7gECzR1nKQCe66jPiW5FArirdGkwejYU/ScckRIxAjiHnbCw4rviv",
+    "twitter": "https://x.com/borunfts",
+    "telegram": ""
+  }
+}
