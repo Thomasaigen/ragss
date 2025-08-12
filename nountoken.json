@@ -1,0 +1,19 @@
+{
+  "name": "noun",
+  "symbol": "noun",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/noun.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/noun.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
