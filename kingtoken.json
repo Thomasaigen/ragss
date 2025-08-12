@@ -1,0 +1,19 @@
+{
+  "name": "King",
+  "symbol": "KING",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/king.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/king.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/kingpaddotfun",
+    "telegram": ""
+  }
+}
