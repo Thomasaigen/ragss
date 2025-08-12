@@ -1,0 +1,19 @@
+{
+  "name": "Action App",
+  "symbol": "ACTION",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/action.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/action.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/actionyouridea",
+    "telegram": ""
+  }
+}
