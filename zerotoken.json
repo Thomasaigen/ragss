@@ -1,0 +1,19 @@
+{
+  "name": "ZERO",
+  "symbol": "ZERO",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/zero.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/zero.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://zerohour.pro/",
+    "twitter": "https://x.com/ZeroHourLaunch",
+    "telegram": ""
+  }
+}
