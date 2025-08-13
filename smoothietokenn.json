@@ -1,0 +1,19 @@
+{
+  "name": "SMOOTHIE",
+  "symbol": "SMOOTHIE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/smoothie.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/smoothie.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://smoothie.fun/",
+    "twitter": "https://x.com/smoothiedotfun",
+    "telegram": ""
+  }
+}
