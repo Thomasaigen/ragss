@@ -1,0 +1,19 @@
+{
+  "name": "Polarys",
+  "symbol": "POLARYS",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/polarys.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/polarys.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.polarysland.xyz/",
+    "twitter": "https://x.com/Polarysland",
+    "telegram": ""
+  }
+}
